@@ -1,5 +1,5 @@
 # Docker常用命令
-'''
+''' 
 #拉取镜像	
 docker pull <image_name>
 #查看镜像	
@@ -18,7 +18,7 @@ docker ps -a
 '''
 
 # 进入docker容器后，可以执行以下命令：
-'''
+''' 
 #镜像列表	
 docker images 
 #拉取镜像	
