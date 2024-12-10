@@ -15,10 +15,9 @@ docker start <container_name> + docker exec -it <container_name> bash
 docker ps / docker ps -a
 #查看容器列表
 docker ps -a
-'''
+```
 
 # 进入docker容器后，可以执行以下命令：
-''' 
 #镜像列表	
 docker images 
 #拉取镜像	
@@ -55,5 +54,5 @@ docker logs <container_name>
 exit
 #删除容器	
 docker rm <container_name> 
-'''
+```
 
