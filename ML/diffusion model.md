@@ -18,7 +18,7 @@
 马尔可夫性：在状态空间中，由一个状态转换到另外一个状态的随机过程，要求有“无记忆性”，即下一个状态的概率分布只与当前状态有关，在时间序列中前面的事件均无关
 马尔科夫链认为：过去所有的信息都被保存在当前状态中了
 - 数学定义：
-![图片](https://github.com/adria-yeahmobi/work-learning/edit/main/images/Markoff chain.png)
+![图片](https://github.com/adria-yeahmobi/work-learning/blob/main/images/Markoff_chain.png)
 - 状态转移概率矩阵：
 作用：直观地描述所有状态转换的概率
 方便计算：基本的状态转换概率矩阵P，求n次运动后状态转换的概率只要求P的n次幂对应位置的概率就可
