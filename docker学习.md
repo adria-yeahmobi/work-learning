@@ -1,5 +1,5 @@
 # Docker常用命令
-'''python
+```python
 #拉取镜像	
 docker pull <image_name> 
 #查看镜像	
