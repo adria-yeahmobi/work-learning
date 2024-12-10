@@ -1,7 +1,7 @@
 # Docker常用命令
-''' 
-#拉取镜像	
-docker pull <image_name>
+
+拉取镜像	
+''' docker pull <image_name> '''
 #查看镜像	
 docker images
 #进入正在运行的容器	
