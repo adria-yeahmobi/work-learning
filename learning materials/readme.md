@@ -9,3 +9,6 @@
 
 ## 基础知识
 java开发，包括java [**SQL**](https://javabetter.cn/)等计算机基础知识
+
+## AI学习路线
+[AI学习路线以及资料](https://mp.weixin.qq.com/s/3_KT7WZvvTGts3wprlpFPA)
