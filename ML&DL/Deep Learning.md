@@ -6,8 +6,8 @@
 - 冻结重要权重
 - 持续性学习，可以缓解灾难性遗忘的机器学习方法，包括正则化方法/记忆回放reply-based/参数孤立等
 -- 记忆回放：基于样本：训练新任务的时候混一些旧任务的数据样本；基于特征：存储量化后的特征图，训练新任务的时候从记忆库重构出记忆和新数据一起训练
-#对抗生成网络GAN的loss理解
+# 对抗生成网络GAN的loss理解
 [loss公式](https://github.com/adria-yeahmobi/work-learning/blob/main/images/GAN-loss.png)
-GAN结构：生成器G 对抗器D
-公式拆成左右两部分来看
+GAN结构：生成器G 对抗器D  
+公式拆成左右两部分来看  
 [简单理解参考](https://blog.csdn.net/qq_40714949/article/details/120493934)
