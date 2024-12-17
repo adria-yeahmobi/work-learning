@@ -9,3 +9,5 @@
   echomimic_v2开源[讨论社区](https://github.com/antgroup/echomimic_v2/issues?page=2&q=is%3Aissue+is%3Aopen)
 - StoryDiffusion模型了解
 - openpose了解
+- 脚本剪辑视频
+- 超分or视频帧增强算法
